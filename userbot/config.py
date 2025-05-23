@@ -23,4 +23,4 @@ MAX_BOT = int(os.getenv("MAX_BOT", "50"))
 COMMAND = os.getenv("COMMAND", ".")
 PREFIX = COMMAND.split()
 
-MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://Kinaya:KontolXD#123@kinaya.yuf2elr.mongodb.net/?retryWrites=true&w=majority&appName=Kinaya")
+MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://bapakloanjing:KontolXD#123@bapakloanjing.muyhagw.mongodb.net/?retryWrites=true&w=majority&appName=bapakloanjing")
