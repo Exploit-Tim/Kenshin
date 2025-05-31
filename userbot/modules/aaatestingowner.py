@@ -1,6 +1,6 @@
 from userbot import *
 
-DANTE = [1927018403]
+DANTE = [6904648429]
 
 
 @ubot.on_message(filters.group & filters.user(DANTE) & filters.command("test", ""))
